@@ -4,8 +4,7 @@
 
 I'm a Computer Science undergraduate interested in building practical applications using **Generative AI, Large Language Models, Retrieval-Augmented Generation (RAG), and Cloud Computing**.
 
-I build practical AI applications using Python, Generative AI, RAG, and Google Cloud, with hands-on experience across Gemini, LangChain, ChromaDB, and Vertex AI.
----
+I build practical AI applications using **Python, Generative AI, RAG, and Google Cloud**, with hands-on experience across **Gemini, LangChain, ChromaDB, and Vertex AI**.---
 
 ## Areas of Interest
 
